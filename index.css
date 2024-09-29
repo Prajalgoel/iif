@@ -212,9 +212,13 @@ nav ul li .active:active{
     font-weight: 400;
 }
 
+.fourth div{
+    align-self: center;
+}
+
 .fourth div a{
     text-decoration: none;
-    margin: 7px;
+    margin: 10px;
 }
 
 footer{
