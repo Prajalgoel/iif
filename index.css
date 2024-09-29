@@ -174,7 +174,7 @@ nav ul li .active:active{
 }
 
 .images img{
-    border-radius: 10px;
+    border-radius: 20px;
     outline: 5px solid red;
     padding: 10px;
     cursor: pointer;
