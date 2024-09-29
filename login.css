@@ -40,6 +40,11 @@ nav ul li a:hover{
     color: yellow;
 }
 
+nav ul li .active:active{
+    text-decoration: underline;
+    color: red;
+}
+
 .login-btn{
     background-color: skyblue;
     color: black;
@@ -146,4 +151,19 @@ footer div{
 
 footer .icon a{
     margin-left: 7px;
+}
+
+footer .icon a img{
+    border-radius: 100px;
+}
+
+
+.quick ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.quick ul li a:hover{
+    text-decoration: underline;
+    color: blue;
 }
